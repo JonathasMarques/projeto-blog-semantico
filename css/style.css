@@ -149,7 +149,7 @@ a:hover {
 }
 
 /* Responsivo */
-@media (max-width: 450px) {
+@media (max-width: 767px) {
     .container {
       flex-wrap: wrap;
     }
